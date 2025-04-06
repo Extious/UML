@@ -1,12 +1,12 @@
 {
   "type": "excalidraw",
   "version": 2,
-  "source": "http://127.0.0.1:38571",
+  "source": "https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor",
   "elements": [
     {
       "type": "rectangle",
-      "version": 135,
-      "versionNonce": 486194532,
+      "version": 136,
+      "versionNonce": 473941966,
       "isDeleted": false,
       "id": "OCsb09xD96TyTpOPpJGFg",
       "fillStyle": "solid",
@@ -36,14 +36,16 @@
           "type": "arrow"
         }
       ],
-      "updated": 1716187574352,
+      "updated": 1742447804056,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "a0",
+      "frameId": null
     },
     {
       "type": "text",
-      "version": 129,
-      "versionNonce": 1367218403,
+      "version": 130,
+      "versionNonce": 509338642,
       "isDeleted": false,
       "id": "tFvWX543qrom1JBvf5H-r",
       "fillStyle": "solid",
@@ -62,7 +64,7 @@
       "groupIds": [],
       "roundness": null,
       "boundElements": [],
-      "updated": 1721446966077,
+      "updated": 1742447804056,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -73,12 +75,15 @@
       "containerId": "OCsb09xD96TyTpOPpJGFg",
       "originalText": "关注\"Dian随访\"公众号",
       "lineHeight": 1.15,
-      "baseline": 18
+      "baseline": 18,
+      "index": "a1",
+      "frameId": null,
+      "autoResize": true
     },
     {
       "type": "rectangle",
-      "version": 237,
-      "versionNonce": 1225093348,
+      "version": 238,
+      "versionNonce": 1892785678,
       "isDeleted": false,
       "id": "RfNJ-la7KAWSd3HBJOsoV",
       "fillStyle": "solid",
@@ -116,14 +121,16 @@
           "type": "arrow"
         }
       ],
-      "updated": 1716187574352,
+      "updated": 1742447804056,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "a2",
+      "frameId": null
     },
     {
       "type": "text",
-      "version": 260,
-      "versionNonce": 1353647235,
+      "version": 261,
+      "versionNonce": 1965658578,
       "isDeleted": false,
       "id": "7hq-eu0lfYP2ZZal-PYFS",
       "fillStyle": "solid",
@@ -142,7 +149,7 @@
       "groupIds": [],
       "roundness": null,
       "boundElements": [],
-      "updated": 1721446966077,
+      "updated": 1742447804056,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -153,12 +160,15 @@
       "containerId": "RfNJ-la7KAWSd3HBJOsoV",
       "originalText": "成为用户",
       "lineHeight": 1.15,
-      "baseline": 18
+      "baseline": 18,
+      "index": "a3",
+      "frameId": null,
+      "autoResize": true
     },
     {
       "type": "rectangle",
-      "version": 281,
-      "versionNonce": 409842788,
+      "version": 282,
+      "versionNonce": 2035199054,
       "isDeleted": false,
       "id": "XYB9Duc35BPOL2xEXz83O",
       "fillStyle": "solid",
@@ -192,14 +202,16 @@
           "type": "arrow"
         }
       ],
-      "updated": 1716187574352,
+      "updated": 1742447804056,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "a4",
+      "frameId": null
     },
     {
       "type": "text",
-      "version": 290,
-      "versionNonce": 2114026531,
+      "version": 291,
+      "versionNonce": 159090578,
       "isDeleted": false,
       "id": "GdqIX5HI4z6oZgdCfpAux",
       "fillStyle": "solid",
@@ -218,7 +230,7 @@
       "groupIds": [],
       "roundness": null,
       "boundElements": [],
-      "updated": 1721446966078,
+      "updated": 1742447804056,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -229,12 +241,15 @@
       "containerId": "XYB9Duc35BPOL2xEXz83O",
       "originalText": "医生",
       "lineHeight": 1.15,
-      "baseline": 18
+      "baseline": 18,
+      "index": "a5",
+      "frameId": null,
+      "autoResize": true
     },
     {
       "type": "rectangle",
-      "version": 258,
-      "versionNonce": 1761708004,
+      "version": 259,
+      "versionNonce": 59765390,
       "isDeleted": false,
       "id": "QeN3e-Gi4Yndn2Wle2h3m",
       "fillStyle": "solid",
@@ -268,14 +283,16 @@
           "type": "arrow"
         }
       ],
-      "updated": 1716187574352,
+      "updated": 1742447804056,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "a6",
+      "frameId": null
     },
     {
       "type": "text",
-      "version": 299,
-      "versionNonce": 895745987,
+      "version": 300,
+      "versionNonce": 864601426,
       "isDeleted": false,
       "id": "5q5Y0SCf1t6kiqocG29va",
       "fillStyle": "solid",
@@ -294,7 +311,7 @@
       "groupIds": [],
       "roundness": null,
       "boundElements": [],
-      "updated": 1721446966078,
+      "updated": 1742447804056,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -305,12 +322,15 @@
       "containerId": "QeN3e-Gi4Yndn2Wle2h3m",
       "originalText": "患者",
       "lineHeight": 1.15,
-      "baseline": 18
+      "baseline": 18,
+      "index": "a7",
+      "frameId": null,
+      "autoResize": true
     },
     {
       "type": "rectangle",
-      "version": 91,
-      "versionNonce": 785312612,
+      "version": 92,
+      "versionNonce": 978219214,
       "isDeleted": false,
       "id": "l7mDaTVd0eHiSC1qDAmu8",
       "fillStyle": "solid",
@@ -348,14 +368,16 @@
           "type": "arrow"
         }
       ],
-      "updated": 1716187574352,
+      "updated": 1742447804056,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "a8",
+      "frameId": null
     },
     {
       "type": "text",
-      "version": 82,
-      "versionNonce": 1358237539,
+      "version": 83,
+      "versionNonce": 749226770,
       "isDeleted": false,
       "id": "eThgbVz8OotASmnQtud0U",
       "fillStyle": "solid",
@@ -374,7 +396,7 @@
       "groupIds": [],
       "roundness": null,
       "boundElements": [],
-      "updated": 1721446966078,
+      "updated": 1742447804056,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -385,12 +407,15 @@
       "containerId": "l7mDaTVd0eHiSC1qDAmu8",
       "originalText": "医生码",
       "lineHeight": 1.15,
-      "baseline": 18
+      "baseline": 18,
+      "index": "a9",
+      "frameId": null,
+      "autoResize": true
     },
     {
       "type": "rectangle",
-      "version": 145,
-      "versionNonce": 1355582469,
+      "version": 146,
+      "versionNonce": 153298702,
       "isDeleted": false,
       "id": "P2MJGG6LFxC_kc_uDwLyS",
       "fillStyle": "solid",
@@ -420,14 +445,16 @@
           "type": "arrow"
         }
       ],
-      "updated": 1721576721046,
+      "updated": 1742447804056,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "aA",
+      "frameId": null
     },
     {
       "type": "text",
-      "version": 184,
-      "versionNonce": 1006657029,
+      "version": 185,
+      "versionNonce": 1800476882,
       "isDeleted": false,
       "id": "abmeM7-dGSi8YTnskJWCk",
       "fillStyle": "solid",
@@ -446,7 +473,7 @@
       "groupIds": [],
       "roundness": null,
       "boundElements": [],
-      "updated": 1721575229193,
+      "updated": 1742447804056,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -457,12 +484,15 @@
       "containerId": "P2MJGG6LFxC_kc_uDwLyS",
       "originalText": "诊疗组（群聊，一患一群）",
       "lineHeight": 1.15,
-      "baseline": 18
+      "baseline": 18,
+      "index": "aB",
+      "frameId": null,
+      "autoResize": true
     },
     {
       "type": "arrow",
-      "version": 317,
-      "versionNonce": 697197156,
+      "version": 318,
+      "versionNonce": 8852814,
       "isDeleted": false,
       "id": "hehihg0F8Lsxt5K3_MmzT",
       "fillStyle": "solid",
@@ -483,7 +513,7 @@
         "type": 2
       },
       "boundElements": [],
-      "updated": 1716187574353,
+      "updated": 1742447804056,
       "link": null,
       "locked": false,
       "startBinding": {
@@ -508,12 +538,14 @@
           1.4446551426005954,
           60.440871000000016
         ]
-      ]
+      ],
+      "index": "aC",
+      "frameId": null
     },
     {
       "type": "arrow",
-      "version": 309,
-      "versionNonce": 1187669468,
+      "version": 310,
+      "versionNonce": 2132422290,
       "isDeleted": false,
       "id": "eUrGKF3IbiJmtH8ISQ8TC",
       "fillStyle": "solid",
@@ -539,7 +571,7 @@
           "id": "HqzRX1m-gsJ7G1NiDtayT"
         }
       ],
-      "updated": 1716187574353,
+      "updated": 1742447804056,
       "link": null,
       "locked": false,
       "startBinding": {
@@ -564,12 +596,14 @@
           -124.50742639545388,
           91.52911634745297
         ]
-      ]
+      ],
+      "index": "aD",
+      "frameId": null
     },
     {
       "type": "text",
-      "version": 81,
-      "versionNonce": 796758277,
+      "version": 82,
+      "versionNonce": 970144654,
       "isDeleted": false,
       "id": "HqzRX1m-gsJ7G1NiDtayT",
       "fillStyle": "solid",
@@ -588,7 +622,7 @@
       "groupIds": [],
       "roundness": null,
       "boundElements": [],
-      "updated": 1721575164960,
+      "updated": 1742447804056,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -599,12 +633,15 @@
       "containerId": "eUrGKF3IbiJmtH8ISQ8TC",
       "originalText": "管理人员授权或其他医生邀请",
       "lineHeight": 1.15,
-      "baseline": 41
+      "baseline": 41,
+      "index": "aE",
+      "frameId": null,
+      "autoResize": true
     },
     {
       "type": "arrow",
-      "version": 256,
-      "versionNonce": 79252060,
+      "version": 257,
+      "versionNonce": 1824164946,
       "isDeleted": false,
       "id": "oqbVYPRLyaobjlueFPfp3",
       "fillStyle": "solid",
@@ -625,7 +662,7 @@
         "type": 2
       },
       "boundElements": [],
-      "updated": 1716187574353,
+      "updated": 1742447804056,
       "link": null,
       "locked": false,
       "startBinding": {
@@ -650,12 +687,14 @@
           127.78995429767383,
           97.73119439812388
         ]
-      ]
+      ],
+      "index": "aF",
+      "frameId": null
     },
     {
       "type": "arrow",
-      "version": 142,
-      "versionNonce": 907811172,
+      "version": 143,
+      "versionNonce": 994089422,
       "isDeleted": false,
       "id": "j8rBQtoE-lRVDd7HFfsSh",
       "fillStyle": "solid",
@@ -681,7 +720,7 @@
           "id": "Gu1WLMXuMY2WXgkVlRyuH"
         }
       ],
-      "updated": 1716187574353,
+      "updated": 1742447804056,
       "link": null,
       "locked": false,
       "startBinding": {
@@ -706,12 +745,14 @@
           128.23430899999948,
           55.30964907461242
         ]
-      ]
+      ],
+      "index": "aG",
+      "frameId": null
     },
     {
       "type": "text",
-      "version": 25,
-      "versionNonce": 1034137035,
+      "version": 26,
+      "versionNonce": 168374802,
       "isDeleted": false,
       "id": "Gu1WLMXuMY2WXgkVlRyuH",
       "fillStyle": "solid",
@@ -730,7 +771,7 @@
       "groupIds": [],
       "roundness": null,
       "boundElements": [],
-      "updated": 1721575164961,
+      "updated": 1742447804056,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -741,12 +782,15 @@
       "containerId": "j8rBQtoE-lRVDd7HFfsSh",
       "originalText": "生成",
       "lineHeight": 1.15,
-      "baseline": 18
+      "baseline": 18,
+      "index": "aH",
+      "frameId": null,
+      "autoResize": true
     },
     {
       "type": "arrow",
-      "version": 118,
-      "versionNonce": 1838894308,
+      "version": 119,
+      "versionNonce": 1541943310,
       "isDeleted": false,
       "id": "K86h9OaWhRLIrenKzGWA_",
       "fillStyle": "solid",
@@ -772,7 +816,7 @@
           "id": "GKXNOjb9nEkbzqMTHjGJT"
         }
       ],
-      "updated": 1716187574353,
+      "updated": 1742447804056,
       "link": null,
       "locked": false,
       "startBinding": {
@@ -797,12 +841,14 @@
           -129.68772729844272,
           48.347361299800696
         ]
-      ]
+      ],
+      "index": "aI",
+      "frameId": null
     },
     {
       "type": "text",
-      "version": 41,
-      "versionNonce": 571418725,
+      "version": 42,
+      "versionNonce": 1509760978,
       "isDeleted": false,
       "id": "GKXNOjb9nEkbzqMTHjGJT",
       "fillStyle": "solid",
@@ -821,7 +867,7 @@
       "groupIds": [],
       "roundness": null,
       "boundElements": [],
-      "updated": 1721575164961,
+      "updated": 1742447804056,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -832,12 +878,15 @@
       "containerId": "K86h9OaWhRLIrenKzGWA_",
       "originalText": "扫描",
       "lineHeight": 1.15,
-      "baseline": 18
+      "baseline": 18,
+      "index": "aJ",
+      "frameId": null,
+      "autoResize": true
     },
     {
       "type": "arrow",
-      "version": 239,
-      "versionNonce": 673773157,
+      "version": 240,
+      "versionNonce": 667090510,
       "isDeleted": false,
       "id": "yxg3Dvd-uHV0r3dk-EjQW",
       "fillStyle": "solid",
@@ -863,7 +912,7 @@
           "id": "OeGhWATGxXOkEWMs73xIS"
         }
       ],
-      "updated": 1721575229674,
+      "updated": 1742447804056,
       "link": null,
       "locked": false,
       "startBinding": {
@@ -888,12 +937,14 @@
           3.996856403507536,
           86
         ]
-      ]
+      ],
+      "index": "aK",
+      "frameId": null
     },
     {
       "type": "text",
-      "version": 22,
-      "versionNonce": 1906132819,
+      "version": 23,
+      "versionNonce": 1756190098,
       "isDeleted": false,
       "id": "OeGhWATGxXOkEWMs73xIS",
       "fillStyle": "solid",
@@ -912,7 +963,7 @@
       "groupIds": [],
       "roundness": null,
       "boundElements": [],
-      "updated": 1729672328920,
+      "updated": 1742447804056,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -923,11 +974,16 @@
       "containerId": "yxg3Dvd-uHV0r3dk-EjQW",
       "originalText": "建立",
       "lineHeight": 1.15,
-      "baseline": 18
+      "baseline": 18,
+      "index": "aL",
+      "frameId": null,
+      "autoResize": true
     }
   ],
   "appState": {
     "gridSize": 20,
+    "gridStep": 5,
+    "gridModeEnabled": false,
     "viewBackgroundColor": "#ffffff"
   },
   "files": {}

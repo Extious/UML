@@ -5,8 +5,8 @@
   "elements": [
     {
       "type": "rectangle",
-      "version": 221,
-      "versionNonce": 424844706,
+      "version": 222,
+      "versionNonce": 42978478,
       "isDeleted": false,
       "id": "Mv9bTtNhdL4JfCYlwPhhJ",
       "fillStyle": "hachure",
@@ -37,14 +37,15 @@
           "type": "arrow"
         }
       ],
-      "updated": 1732602538818,
+      "updated": 1742447795120,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "a0"
     },
     {
       "type": "text",
-      "version": 252,
-      "versionNonce": 523404642,
+      "version": 253,
+      "versionNonce": 144907570,
       "isDeleted": false,
       "id": "WRq30Zj88_smUh1zSI2Q-",
       "fillStyle": "hachure",
@@ -64,7 +65,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1732602538835,
+      "updated": 1742447795120,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -75,12 +76,14 @@
       "containerId": "Mv9bTtNhdL4JfCYlwPhhJ",
       "originalText": "末次含铂化疗时间",
       "lineHeight": 1.25,
-      "baseline": 20
+      "baseline": 20,
+      "index": "a1",
+      "autoResize": true
     },
     {
       "type": "image",
-      "version": 243,
-      "versionNonce": 756882722,
+      "version": 244,
+      "versionNonce": 479069934,
       "isDeleted": false,
       "id": "R_wEBvs1rG0xcAZxUhsBQ",
       "fillStyle": "hachure",
@@ -100,7 +103,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1732602538818,
+      "updated": 1742447795120,
       "link": null,
       "locked": false,
       "status": "pending",
@@ -108,12 +111,14 @@
       "scale": [
         1,
         1
-      ]
+      ],
+      "index": "a2",
+      "crop": null
     },
     {
       "type": "rectangle",
-      "version": 26,
-      "versionNonce": 394340578,
+      "version": 27,
+      "versionNonce": 1080862450,
       "isDeleted": false,
       "id": "ZL7yhykS-OVyl8b9sfFBK",
       "fillStyle": "hachure",
@@ -144,14 +149,15 @@
           "type": "arrow"
         }
       ],
-      "updated": 1732602538818,
+      "updated": 1742447795120,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "a3"
     },
     {
       "type": "text",
-      "version": 32,
-      "versionNonce": 725584162,
+      "version": 33,
+      "versionNonce": 1196095790,
       "isDeleted": false,
       "id": "NBq_pY2xMCVVMR4YuiA5k",
       "fillStyle": "hachure",
@@ -171,7 +177,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1732602538846,
+      "updated": 1742447795120,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -182,12 +188,14 @@
       "containerId": "ZL7yhykS-OVyl8b9sfFBK",
       "originalText": "初次手术是否为完全切除",
       "lineHeight": 1.25,
-      "baseline": 20
+      "baseline": 20,
+      "index": "a4",
+      "autoResize": true
     },
     {
       "type": "rectangle",
-      "version": 30,
-      "versionNonce": 1863440482,
+      "version": 31,
+      "versionNonce": 1642002610,
       "isDeleted": false,
       "id": "AxfkO8CSHOZgh9uSx8wXW",
       "fillStyle": "hachure",
@@ -218,14 +226,15 @@
           "type": "arrow"
         }
       ],
-      "updated": 1732602538818,
+      "updated": 1742447795120,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "a5"
     },
     {
       "type": "text",
-      "version": 14,
-      "versionNonce": 2121667810,
+      "version": 15,
+      "versionNonce": 1781506926,
       "isDeleted": false,
       "id": "_NGVVwNFEt2potETKfqN-",
       "fillStyle": "hachure",
@@ -245,7 +254,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1732602538848,
+      "updated": 1742447795120,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -256,12 +265,14 @@
       "containerId": "AxfkO8CSHOZgh9uSx8wXW",
       "originalText": "腹水量",
       "lineHeight": 1.25,
-      "baseline": 20
+      "baseline": 20,
+      "index": "a6",
+      "autoResize": true
     },
     {
       "type": "rectangle",
-      "version": 33,
-      "versionNonce": 115124194,
+      "version": 34,
+      "versionNonce": 1285624434,
       "isDeleted": false,
       "id": "1iVBl5-8ythwC9O-LaFDX",
       "fillStyle": "hachure",
@@ -292,14 +303,15 @@
           "type": "arrow"
         }
       ],
-      "updated": 1732602538818,
+      "updated": 1742447795120,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "a7"
     },
     {
       "type": "text",
-      "version": 22,
-      "versionNonce": 174401698,
+      "version": 23,
+      "versionNonce": 394593710,
       "isDeleted": false,
       "id": "NTX-xVVWJHeipYIt_p_vh",
       "fillStyle": "hachure",
@@ -319,7 +331,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1732602538852,
+      "updated": 1742447795120,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -330,12 +342,14 @@
       "containerId": "1iVBl5-8ythwC9O-LaFDX",
       "originalText": "ECOG评分",
       "lineHeight": 1.25,
-      "baseline": 20
+      "baseline": 20,
+      "index": "a8",
+      "autoResize": true
     },
     {
       "type": "rectangle",
-      "version": 31,
-      "versionNonce": 1859753826,
+      "version": 32,
+      "versionNonce": 1400501298,
       "isDeleted": false,
       "id": "LlhFLS1WAhGN16rWHFTcF",
       "fillStyle": "hachure",
@@ -362,14 +376,15 @@
           "id": "rYqRHJ_bbbw-CEfcOz9i1"
         }
       ],
-      "updated": 1732602538818,
+      "updated": 1742447795120,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "a9"
     },
     {
       "type": "text",
-      "version": 21,
-      "versionNonce": 918275170,
+      "version": 22,
+      "versionNonce": 812916718,
       "isDeleted": false,
       "id": "rYqRHJ_bbbw-CEfcOz9i1",
       "fillStyle": "hachure",
@@ -389,7 +404,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1732602538854,
+      "updated": 1742447795120,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -400,12 +415,14 @@
       "containerId": "LlhFLS1WAhGN16rWHFTcF",
       "originalText": "复发病灶数量",
       "lineHeight": 1.25,
-      "baseline": 20
+      "baseline": 20,
+      "index": "aA",
+      "autoResize": true
     },
     {
       "type": "rectangle",
-      "version": 331,
-      "versionNonce": 419473122,
+      "version": 332,
+      "versionNonce": 1481678322,
       "isDeleted": false,
       "id": "vlTcCTSHH_YA77DnCPabP",
       "fillStyle": "hachure",
@@ -448,14 +465,15 @@
           "type": "arrow"
         }
       ],
-      "updated": 1732602538818,
+      "updated": 1742447795120,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "aB"
     },
     {
       "type": "text",
-      "version": 394,
-      "versionNonce": 491317282,
+      "version": 395,
+      "versionNonce": 151384622,
       "isDeleted": false,
       "id": "M6vjz3AZ_Qh1jtmdpOrvT",
       "fillStyle": "hachure",
@@ -475,7 +493,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1732602538857,
+      "updated": 1742447795120,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -486,12 +504,14 @@
       "containerId": "vlTcCTSHH_YA77DnCPabP",
       "originalText": "AGO：50%-76%推荐SCS",
       "lineHeight": 1.25,
-      "baseline": 20
+      "baseline": 20,
+      "index": "aC",
+      "autoResize": true
     },
     {
       "type": "arrow",
-      "version": 3502,
-      "versionNonce": 1498011234,
+      "version": 3503,
+      "versionNonce": 1747718066,
       "isDeleted": false,
       "id": "jACD4kpo8l5WjT-NF9hYA",
       "fillStyle": "hachure",
@@ -518,7 +538,7 @@
           "id": "O6Xt9T4WZc_ny_ahBm5YO"
         }
       ],
-      "updated": 1732602538818,
+      "updated": 1742447795120,
       "link": null,
       "locked": false,
       "startBinding": {
@@ -543,12 +563,13 @@
           359,
           399.1737751731274
         ]
-      ]
+      ],
+      "index": "aD"
     },
     {
       "type": "text",
-      "version": 26,
-      "versionNonce": 1174115298,
+      "version": 27,
+      "versionNonce": 203652206,
       "isDeleted": false,
       "id": "O6Xt9T4WZc_ny_ahBm5YO",
       "fillStyle": "hachure",
@@ -568,7 +589,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1732602538859,
+      "updated": 1742447795120,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -579,12 +600,14 @@
       "containerId": "jACD4kpo8l5WjT-NF9hYA",
       "originalText": "大于6个月",
       "lineHeight": 1.25,
-      "baseline": 20
+      "baseline": 20,
+      "index": "aE",
+      "autoResize": true
     },
     {
       "type": "rectangle",
-      "version": 182,
-      "versionNonce": 1705846242,
+      "version": 183,
+      "versionNonce": 1462978930,
       "isDeleted": false,
       "id": "MY0NvJN6XwENPo1cu7ONH",
       "fillStyle": "hachure",
@@ -619,14 +642,15 @@
           "type": "arrow"
         }
       ],
-      "updated": 1732602538818,
+      "updated": 1742447795120,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "aF"
     },
     {
       "type": "text",
-      "version": 155,
-      "versionNonce": 1659029410,
+      "version": 156,
+      "versionNonce": 1603649198,
       "isDeleted": false,
       "id": "hA0xh6NHRDqqj51jVHRn0",
       "fillStyle": "hachure",
@@ -646,7 +670,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1732602538864,
+      "updated": 1742447795120,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -657,12 +681,14 @@
       "containerId": "MY0NvJN6XwENPo1cu7ONH",
       "originalText": "PFI",
       "lineHeight": 1.25,
-      "baseline": 20
+      "baseline": 20,
+      "index": "aG",
+      "autoResize": true
     },
     {
       "type": "arrow",
-      "version": 1350,
-      "versionNonce": 1445107042,
+      "version": 1351,
+      "versionNonce": 1554860850,
       "isDeleted": false,
       "id": "OocIKf8sVT6mZkcP2pB7Y",
       "fillStyle": "hachure",
@@ -689,7 +715,7 @@
           "id": "klHD7oMF6CBajmWdT-z8w"
         }
       ],
-      "updated": 1732602538818,
+      "updated": 1742447795120,
       "link": null,
       "locked": false,
       "startBinding": {
@@ -714,12 +740,13 @@
           -1.909899907497561,
           -198
         ]
-      ]
+      ],
+      "index": "aH"
     },
     {
       "type": "text",
-      "version": 41,
-      "versionNonce": 204309346,
+      "version": 42,
+      "versionNonce": 134592750,
       "isDeleted": false,
       "id": "klHD7oMF6CBajmWdT-z8w",
       "fillStyle": "hachure",
@@ -739,7 +766,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1732602538866,
+      "updated": 1742447795120,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -750,12 +777,14 @@
       "containerId": "OocIKf8sVT6mZkcP2pB7Y",
       "originalText": "和当前时间的差值",
       "lineHeight": 1.25,
-      "baseline": 20
+      "baseline": 20,
+      "index": "aI",
+      "autoResize": true
     },
     {
       "type": "image",
-      "version": 155,
-      "versionNonce": 614606050,
+      "version": 156,
+      "versionNonce": 788600050,
       "isDeleted": false,
       "id": "VOmi-kHE0l0CoKINZHAGr",
       "fillStyle": "hachure",
@@ -775,7 +804,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1732602538818,
+      "updated": 1742447795120,
       "link": null,
       "locked": false,
       "status": "pending",
@@ -783,12 +812,14 @@
       "scale": [
         1,
         1
-      ]
+      ],
+      "index": "aJ",
+      "crop": null
     },
     {
       "type": "arrow",
-      "version": 2009,
-      "versionNonce": 814692514,
+      "version": 2010,
+      "versionNonce": 217869102,
       "isDeleted": false,
       "id": "k_SGY07AvwCfWup4DUxkx",
       "fillStyle": "hachure",
@@ -815,7 +846,7 @@
           "id": "SQSe7Xy3dMbmH9Ije07SF"
         }
       ],
-      "updated": 1732602538818,
+      "updated": 1742447795120,
       "link": null,
       "locked": false,
       "startBinding": {
@@ -840,12 +871,13 @@
           338,
           -211.12813404616344
         ]
-      ]
+      ],
+      "index": "aK"
     },
     {
       "type": "text",
-      "version": 11,
-      "versionNonce": 2083178274,
+      "version": 12,
+      "versionNonce": 531998386,
       "isDeleted": false,
       "id": "SQSe7Xy3dMbmH9Ije07SF",
       "fillStyle": "hachure",
@@ -865,7 +897,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1732602538869,
+      "updated": 1742447795120,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -876,12 +908,14 @@
       "containerId": "k_SGY07AvwCfWup4DUxkx",
       "originalText": "0",
       "lineHeight": 1.25,
-      "baseline": 20
+      "baseline": 20,
+      "index": "aL",
+      "autoResize": true
     },
     {
       "type": "arrow",
-      "version": 1801,
-      "versionNonce": 741275682,
+      "version": 1802,
+      "versionNonce": 484627822,
       "isDeleted": false,
       "id": "FJhs6xayZPRll7G37bRfk",
       "fillStyle": "hachure",
@@ -908,7 +942,7 @@
           "id": "UyH-7zYrZIhJWhh20x3yw"
         }
       ],
-      "updated": 1732602538818,
+      "updated": 1742447795120,
       "link": null,
       "locked": false,
       "startBinding": {
@@ -933,12 +967,13 @@
           358,
           -101.47229458130168
         ]
-      ]
+      ],
+      "index": "aM"
     },
     {
       "type": "text",
-      "version": 23,
-      "versionNonce": 1263112930,
+      "version": 24,
+      "versionNonce": 930218098,
       "isDeleted": false,
       "id": "UyH-7zYrZIhJWhh20x3yw",
       "fillStyle": "hachure",
@@ -958,7 +993,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1732602538871,
+      "updated": 1742447795120,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -969,12 +1004,14 @@
       "containerId": "FJhs6xayZPRll7G37bRfk",
       "originalText": "小于500ml",
       "lineHeight": 1.25,
-      "baseline": 20
+      "baseline": 20,
+      "index": "aN",
+      "autoResize": true
     },
     {
       "type": "arrow",
-      "version": 1748,
-      "versionNonce": 1535432610,
+      "version": 1749,
+      "versionNonce": 822212526,
       "isDeleted": false,
       "id": "XTUDdei2zdQDJP0NzaSwP",
       "fillStyle": "hachure",
@@ -1001,7 +1038,7 @@
           "id": "uV41M7DmhLS9tR6b4CqCj"
         }
       ],
-      "updated": 1732602538818,
+      "updated": 1742447795120,
       "link": null,
       "locked": false,
       "startBinding": {
@@ -1026,12 +1063,13 @@
           297.9999999999999,
           1.397720746465609
         ]
-      ]
+      ],
+      "index": "aO"
     },
     {
       "type": "text",
-      "version": 18,
-      "versionNonce": 739829410,
+      "version": 19,
+      "versionNonce": 1375543858,
       "isDeleted": false,
       "id": "uV41M7DmhLS9tR6b4CqCj",
       "fillStyle": "hachure",
@@ -1051,7 +1089,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1732602538878,
+      "updated": 1742447795120,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -1062,12 +1100,14 @@
       "containerId": "XTUDdei2zdQDJP0NzaSwP",
       "originalText": "是",
       "lineHeight": 1.25,
-      "baseline": 20
+      "baseline": 20,
+      "index": "aP",
+      "autoResize": true
     },
     {
       "type": "image",
-      "version": 162,
-      "versionNonce": 529061666,
+      "version": 163,
+      "versionNonce": 830657006,
       "isDeleted": false,
       "id": "O4PN_IQHizYHEheqUkwqk",
       "fillStyle": "hachure",
@@ -1087,7 +1127,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1732602538818,
+      "updated": 1742447795120,
       "link": null,
       "locked": false,
       "status": "pending",
@@ -1095,12 +1135,14 @@
       "scale": [
         1,
         1
-      ]
+      ],
+      "index": "aQ",
+      "crop": null
     },
     {
       "type": "rectangle",
-      "version": 301,
-      "versionNonce": 2019926754,
+      "version": 302,
+      "versionNonce": 977144818,
       "isDeleted": false,
       "id": "fUZ-axTRqOKI9sd2LhRyE",
       "fillStyle": "hachure",
@@ -1131,14 +1173,15 @@
           "type": "arrow"
         }
       ],
-      "updated": 1732602538818,
+      "updated": 1742447795120,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "aR"
     },
     {
       "type": "text",
-      "version": 332,
-      "versionNonce": 659014242,
+      "version": 333,
+      "versionNonce": 426665006,
       "isDeleted": false,
       "id": "U_gLGNeyrPKemtfYb9dtF",
       "fillStyle": "hachure",
@@ -1158,7 +1201,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1732602538880,
+      "updated": 1742447795120,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -1169,12 +1212,14 @@
       "containerId": "fUZ-axTRqOKI9sd2LhRyE",
       "originalText": "末次含铂化疗时间",
       "lineHeight": 1.25,
-      "baseline": 20
+      "baseline": 20,
+      "index": "aS",
+      "autoResize": true
     },
     {
       "type": "rectangle",
-      "version": 107,
-      "versionNonce": 681562722,
+      "version": 108,
+      "versionNonce": 1178320306,
       "isDeleted": false,
       "id": "zo9onOJGgx91X4dqGFq-Z",
       "fillStyle": "hachure",
@@ -1201,14 +1246,15 @@
           "id": "K50eqpkahlBVT2KQUXwXD"
         }
       ],
-      "updated": 1732602538818,
+      "updated": 1742447795120,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "aT"
     },
     {
       "type": "text",
-      "version": 112,
-      "versionNonce": 1470440994,
+      "version": 113,
+      "versionNonce": 447589998,
       "isDeleted": false,
       "id": "K50eqpkahlBVT2KQUXwXD",
       "fillStyle": "hachure",
@@ -1228,7 +1274,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1732602538881,
+      "updated": 1742447795120,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -1239,12 +1285,14 @@
       "containerId": "zo9onOJGgx91X4dqGFq-Z",
       "originalText": "初次手术是否为完全切除",
       "lineHeight": 1.25,
-      "baseline": 20
+      "baseline": 20,
+      "index": "aU",
+      "autoResize": true
     },
     {
       "type": "rectangle",
-      "version": 110,
-      "versionNonce": 481567202,
+      "version": 111,
+      "versionNonce": 1931294578,
       "isDeleted": false,
       "id": "ZMzm1gY3M2oqgt8wb54Zb",
       "fillStyle": "hachure",
@@ -1275,14 +1323,15 @@
           "type": "arrow"
         }
       ],
-      "updated": 1732602538818,
+      "updated": 1742447795120,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "aV"
     },
     {
       "type": "text",
-      "version": 94,
-      "versionNonce": 639635938,
+      "version": 95,
+      "versionNonce": 1107931310,
       "isDeleted": false,
       "id": "rDkyjUdFblH25yH-76LMQ",
       "fillStyle": "hachure",
@@ -1302,7 +1351,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1732602538886,
+      "updated": 1742447795120,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -1313,12 +1362,14 @@
       "containerId": "ZMzm1gY3M2oqgt8wb54Zb",
       "originalText": "腹水量",
       "lineHeight": 1.25,
-      "baseline": 20
+      "baseline": 20,
+      "index": "aW",
+      "autoResize": true
     },
     {
       "type": "rectangle",
-      "version": 115,
-      "versionNonce": 2090504546,
+      "version": 116,
+      "versionNonce": 19495218,
       "isDeleted": false,
       "id": "qlb9yBh7dRyYiSKs9JfT3",
       "fillStyle": "hachure",
@@ -1345,14 +1396,15 @@
           "id": "O0Gooj6_I88GYlO03PMQD"
         }
       ],
-      "updated": 1732602538818,
+      "updated": 1742447795120,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "aX"
     },
     {
       "type": "text",
-      "version": 102,
-      "versionNonce": 96961954,
+      "version": 103,
+      "versionNonce": 455830254,
       "isDeleted": false,
       "id": "O0Gooj6_I88GYlO03PMQD",
       "fillStyle": "hachure",
@@ -1372,7 +1424,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1732602538888,
+      "updated": 1742447795120,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -1383,12 +1435,14 @@
       "containerId": "qlb9yBh7dRyYiSKs9JfT3",
       "originalText": "ECOG评分",
       "lineHeight": 1.25,
-      "baseline": 20
+      "baseline": 20,
+      "index": "aY",
+      "autoResize": true
     },
     {
       "type": "rectangle",
-      "version": 111,
-      "versionNonce": 1380655330,
+      "version": 112,
+      "versionNonce": 264733426,
       "isDeleted": false,
       "id": "_qyRJhJY0M5O5gNEgU6Et",
       "fillStyle": "hachure",
@@ -1415,14 +1469,15 @@
           "id": "_q2pJBqaLWJH9vmRuuwLt"
         }
       ],
-      "updated": 1732602538818,
+      "updated": 1742447795120,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "aZ"
     },
     {
       "type": "text",
-      "version": 101,
-      "versionNonce": 801800546,
+      "version": 102,
+      "versionNonce": 1419500846,
       "isDeleted": false,
       "id": "_q2pJBqaLWJH9vmRuuwLt",
       "fillStyle": "hachure",
@@ -1442,7 +1497,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1732602538890,
+      "updated": 1742447795120,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -1453,12 +1508,14 @@
       "containerId": "_qyRJhJY0M5O5gNEgU6Et",
       "originalText": "复发病灶数量",
       "lineHeight": 1.25,
-      "baseline": 20
+      "baseline": 20,
+      "index": "aa",
+      "autoResize": true
     },
     {
       "type": "rectangle",
-      "version": 262,
-      "versionNonce": 163434594,
+      "version": 263,
+      "versionNonce": 964580530,
       "isDeleted": false,
       "id": "woldz2mFFfPMvJWUfJOR8",
       "fillStyle": "hachure",
@@ -1493,14 +1550,15 @@
           "type": "arrow"
         }
       ],
-      "updated": 1732602538818,
+      "updated": 1742447795120,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "ab"
     },
     {
       "type": "text",
-      "version": 235,
-      "versionNonce": 1601701154,
+      "version": 236,
+      "versionNonce": 1673791342,
       "isDeleted": false,
       "id": "O9gdwzSUnnlmXQACuCGlN",
       "fillStyle": "hachure",
@@ -1520,7 +1578,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1732602538895,
+      "updated": 1742447795120,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -1531,12 +1589,14 @@
       "containerId": "woldz2mFFfPMvJWUfJOR8",
       "originalText": "PFI",
       "lineHeight": 1.25,
-      "baseline": 20
+      "baseline": 20,
+      "index": "ac",
+      "autoResize": true
     },
     {
       "type": "arrow",
-      "version": 1710,
-      "versionNonce": 1894424546,
+      "version": 1711,
+      "versionNonce": 804580978,
       "isDeleted": false,
       "id": "1pUBHG-MjKEKg34ru2y4o",
       "fillStyle": "hachure",
@@ -1563,7 +1623,7 @@
           "id": "6pqq0sxxQA5Aq-yHl3SJu"
         }
       ],
-      "updated": 1732602538818,
+      "updated": 1742447795120,
       "link": null,
       "locked": false,
       "startBinding": {
@@ -1588,12 +1648,13 @@
           -1.909899907497561,
           -198
         ]
-      ]
+      ],
+      "index": "ad"
     },
     {
       "type": "text",
-      "version": 122,
-      "versionNonce": 239014114,
+      "version": 123,
+      "versionNonce": 686614958,
       "isDeleted": false,
       "id": "6pqq0sxxQA5Aq-yHl3SJu",
       "fillStyle": "hachure",
@@ -1613,7 +1674,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1732602538899,
+      "updated": 1742447795120,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -1624,12 +1685,14 @@
       "containerId": "1pUBHG-MjKEKg34ru2y4o",
       "originalText": "和当前时间的差值",
       "lineHeight": 1.25,
-      "baseline": 20
+      "baseline": 20,
+      "index": "ae",
+      "autoResize": true
     },
     {
       "type": "rectangle",
-      "version": 522,
-      "versionNonce": 935956322,
+      "version": 523,
+      "versionNonce": 1475498034,
       "isDeleted": false,
       "id": "Qs9RHHjn8zIiYq1GWZ166",
       "fillStyle": "hachure",
@@ -1668,14 +1731,15 @@
           "type": "arrow"
         }
       ],
-      "updated": 1732602538818,
+      "updated": 1742447795120,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "af"
     },
     {
       "type": "text",
-      "version": 521,
-      "versionNonce": 799974562,
+      "version": 522,
+      "versionNonce": 322929646,
       "isDeleted": false,
       "id": "ItQxBb1vvz7ibzIbOPxEm",
       "fillStyle": "hachure",
@@ -1695,7 +1759,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1732602538903,
+      "updated": 1742447795120,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -1706,12 +1770,14 @@
       "containerId": "Qs9RHHjn8zIiYq1GWZ166",
       "originalText": "NCCN：可考虑SCS",
       "lineHeight": 1.25,
-      "baseline": 20
+      "baseline": 20,
+      "index": "ag",
+      "autoResize": true
     },
     {
       "type": "arrow",
-      "version": 1941,
-      "versionNonce": 1884462818,
+      "version": 1942,
+      "versionNonce": 1700624882,
       "isDeleted": false,
       "id": "BGWILcovjegLfyi4kESxE",
       "fillStyle": "hachure",
@@ -1738,7 +1804,7 @@
           "id": "gENeoncUndQCrkyJxdZ4J"
         }
       ],
-      "updated": 1732602538818,
+      "updated": 1742447795120,
       "link": null,
       "locked": false,
       "startBinding": {
@@ -1763,12 +1829,13 @@
           338,
           343.6276911735754
         ]
-      ]
+      ],
+      "index": "ah"
     },
     {
       "type": "text",
-      "version": 92,
-      "versionNonce": 1836433506,
+      "version": 93,
+      "versionNonce": 1153750574,
       "isDeleted": false,
       "id": "gENeoncUndQCrkyJxdZ4J",
       "fillStyle": "hachure",
@@ -1788,7 +1855,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1732602538906,
+      "updated": 1742447795120,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -1799,12 +1866,14 @@
       "containerId": "BGWILcovjegLfyi4kESxE",
       "originalText": "6-12个月",
       "lineHeight": 1.25,
-      "baseline": 20
+      "baseline": 20,
+      "index": "ai",
+      "autoResize": true
     },
     {
       "type": "arrow",
-      "version": 2108,
-      "versionNonce": 243125858,
+      "version": 2109,
+      "versionNonce": 2000513970,
       "isDeleted": false,
       "id": "nlEP0CX-lGqTUxu1RF6J3",
       "fillStyle": "hachure",
@@ -1831,7 +1900,7 @@
           "id": "T6UdGPb3wxZiCBvpcFMMN"
         }
       ],
-      "updated": 1732602538818,
+      "updated": 1742447795120,
       "link": null,
       "locked": false,
       "startBinding": {
@@ -1856,12 +1925,13 @@
           337.9999999999999,
           -136.1691258598987
         ]
-      ]
+      ],
+      "index": "aj"
     },
     {
       "type": "text",
-      "version": 106,
-      "versionNonce": 1667458082,
+      "version": 107,
+      "versionNonce": 912646254,
       "isDeleted": false,
       "id": "T6UdGPb3wxZiCBvpcFMMN",
       "fillStyle": "hachure",
@@ -1881,7 +1951,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1732602538907,
+      "updated": 1742447795120,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -1892,12 +1962,14 @@
       "containerId": "nlEP0CX-lGqTUxu1RF6J3",
       "originalText": "0",
       "lineHeight": 1.25,
-      "baseline": 20
+      "baseline": 20,
+      "index": "ak",
+      "autoResize": true
     },
     {
       "type": "arrow",
-      "version": 1936,
-      "versionNonce": 1749229026,
+      "version": 1937,
+      "versionNonce": 867771762,
       "isDeleted": false,
       "id": "kzkzB7I5lAoWHiIWIyrAB",
       "fillStyle": "hachure",
@@ -1924,7 +1996,7 @@
           "id": "0A4qzrkEYqOsArvUn0mWb"
         }
       ],
-      "updated": 1732602538819,
+      "updated": 1742447795120,
       "link": null,
       "locked": false,
       "startBinding": null,
@@ -1945,12 +2017,13 @@
           299.11394703494386,
           -370.83139551478916
         ]
-      ]
+      ],
+      "index": "al"
     },
     {
       "type": "text",
-      "version": 93,
-      "versionNonce": 1533448162,
+      "version": 94,
+      "versionNonce": 1542169262,
       "isDeleted": false,
       "id": "0A4qzrkEYqOsArvUn0mWb",
       "fillStyle": "hachure",
@@ -1970,7 +2043,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1732602538912,
+      "updated": 1742447795120,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -1981,12 +2054,14 @@
       "containerId": "kzkzB7I5lAoWHiIWIyrAB",
       "originalText": "1",
       "lineHeight": 1.25,
-      "baseline": 20
+      "baseline": 20,
+      "index": "am",
+      "autoResize": true
     },
     {
       "type": "rectangle",
-      "version": 313,
-      "versionNonce": 899321186,
+      "version": 314,
+      "versionNonce": 1679271730,
       "isDeleted": false,
       "id": "L-mxbgoxnbJF8ZfIbMAKp",
       "fillStyle": "hachure",
@@ -2017,14 +2092,15 @@
           "type": "arrow"
         }
       ],
-      "updated": 1732602538819,
+      "updated": 1742447795120,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "an"
     },
     {
       "type": "text",
-      "version": 344,
-      "versionNonce": 160318370,
+      "version": 345,
+      "versionNonce": 1207901422,
       "isDeleted": false,
       "id": "a0rvbMGV7bq4zy4gRD5Ka",
       "fillStyle": "hachure",
@@ -2044,7 +2120,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1732602538914,
+      "updated": 1742447795120,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -2055,12 +2131,14 @@
       "containerId": "L-mxbgoxnbJF8ZfIbMAKp",
       "originalText": "末次含铂化疗时间",
       "lineHeight": 1.25,
-      "baseline": 20
+      "baseline": 20,
+      "index": "ao",
+      "autoResize": true
     },
     {
       "type": "rectangle",
-      "version": 119,
-      "versionNonce": 276569314,
+      "version": 120,
+      "versionNonce": 281014514,
       "isDeleted": false,
       "id": "OIpazt-VPyAHHnKMNqFww",
       "fillStyle": "hachure",
@@ -2087,14 +2165,15 @@
           "id": "RzGS2a7cTy1K1rtD_J1IB"
         }
       ],
-      "updated": 1732602538819,
+      "updated": 1742447795120,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "ap"
     },
     {
       "type": "text",
-      "version": 124,
-      "versionNonce": 1208581986,
+      "version": 125,
+      "versionNonce": 1344884526,
       "isDeleted": false,
       "id": "RzGS2a7cTy1K1rtD_J1IB",
       "fillStyle": "hachure",
@@ -2114,7 +2193,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1732602538915,
+      "updated": 1742447795120,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -2125,12 +2204,14 @@
       "containerId": "OIpazt-VPyAHHnKMNqFww",
       "originalText": "初次手术是否为完全切除",
       "lineHeight": 1.25,
-      "baseline": 20
+      "baseline": 20,
+      "index": "aq",
+      "autoResize": true
     },
     {
       "type": "rectangle",
-      "version": 123,
-      "versionNonce": 1960823906,
+      "version": 124,
+      "versionNonce": 490275506,
       "isDeleted": false,
       "id": "l4UdEtI0opGs03vmcRzU4",
       "fillStyle": "hachure",
@@ -2157,14 +2238,15 @@
           "id": "30ZA61d2i-MdpCUmUON7M"
         }
       ],
-      "updated": 1732602538819,
+      "updated": 1742447795120,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "ar"
     },
     {
       "type": "text",
-      "version": 106,
-      "versionNonce": 1395082018,
+      "version": 107,
+      "versionNonce": 819149166,
       "isDeleted": false,
       "id": "30ZA61d2i-MdpCUmUON7M",
       "fillStyle": "hachure",
@@ -2184,7 +2266,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1732602538920,
+      "updated": 1742447795120,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -2195,12 +2277,14 @@
       "containerId": "l4UdEtI0opGs03vmcRzU4",
       "originalText": "腹水量",
       "lineHeight": 1.25,
-      "baseline": 20
+      "baseline": 20,
+      "index": "as",
+      "autoResize": true
     },
     {
       "type": "rectangle",
-      "version": 126,
-      "versionNonce": 1086168034,
+      "version": 127,
+      "versionNonce": 1680465010,
       "isDeleted": false,
       "id": "x7-xHjAqjaY5mqiJpgNdf",
       "fillStyle": "hachure",
@@ -2227,14 +2311,15 @@
           "id": "w3dFI1EosgkxgESD1jg5R"
         }
       ],
-      "updated": 1732602538819,
+      "updated": 1742447795120,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "at"
     },
     {
       "type": "text",
-      "version": 114,
-      "versionNonce": 89558754,
+      "version": 115,
+      "versionNonce": 826661806,
       "isDeleted": false,
       "id": "w3dFI1EosgkxgESD1jg5R",
       "fillStyle": "hachure",
@@ -2254,7 +2339,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1732602538923,
+      "updated": 1742447795120,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -2265,12 +2350,14 @@
       "containerId": "x7-xHjAqjaY5mqiJpgNdf",
       "originalText": "ECOG评分",
       "lineHeight": 1.25,
-      "baseline": 20
+      "baseline": 20,
+      "index": "au",
+      "autoResize": true
     },
     {
       "type": "rectangle",
-      "version": 126,
-      "versionNonce": 873302882,
+      "version": 127,
+      "versionNonce": 1398373938,
       "isDeleted": false,
       "id": "GjshMkFJikRiEdv0Gl4Hi",
       "fillStyle": "hachure",
@@ -2309,14 +2396,15 @@
           "type": "arrow"
         }
       ],
-      "updated": 1732602538819,
+      "updated": 1742447795120,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "av"
     },
     {
       "type": "text",
-      "version": 113,
-      "versionNonce": 321282722,
+      "version": 114,
+      "versionNonce": 1202337262,
       "isDeleted": false,
       "id": "U3JijRU00tjvT4dTNaZ7T",
       "fillStyle": "hachure",
@@ -2336,7 +2424,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1732602538926,
+      "updated": 1742447795120,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -2347,12 +2435,14 @@
       "containerId": "GjshMkFJikRiEdv0Gl4Hi",
       "originalText": "复发病灶数量",
       "lineHeight": 1.25,
-      "baseline": 20
+      "baseline": 20,
+      "index": "aw",
+      "autoResize": true
     },
     {
       "type": "rectangle",
-      "version": 277,
-      "versionNonce": 1892129506,
+      "version": 278,
+      "versionNonce": 128903154,
       "isDeleted": false,
       "id": "JmdbcaWCebCKCNY99cFTE",
       "fillStyle": "hachure",
@@ -2395,14 +2485,15 @@
           "type": "arrow"
         }
       ],
-      "updated": 1732602538819,
+      "updated": 1742447795120,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "ax"
     },
     {
       "type": "text",
-      "version": 247,
-      "versionNonce": 1195753058,
+      "version": 248,
+      "versionNonce": 1024018478,
       "isDeleted": false,
       "id": "Dumss7BOTA59HR910u-qb",
       "fillStyle": "hachure",
@@ -2422,7 +2513,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1732602538931,
+      "updated": 1742447795120,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -2433,12 +2524,14 @@
       "containerId": "JmdbcaWCebCKCNY99cFTE",
       "originalText": "PFI",
       "lineHeight": 1.25,
-      "baseline": 20
+      "baseline": 20,
+      "index": "ay",
+      "autoResize": true
     },
     {
       "type": "arrow",
-      "version": 1804,
-      "versionNonce": 2061748834,
+      "version": 1805,
+      "versionNonce": 1764825522,
       "isDeleted": false,
       "id": "TD2OJ1kyuwYoarC3KeEKq",
       "fillStyle": "hachure",
@@ -2465,7 +2558,7 @@
           "id": "N6LAERzm86DjEYDnEw4r0"
         }
       ],
-      "updated": 1732602538819,
+      "updated": 1742447795120,
       "link": null,
       "locked": false,
       "startBinding": {
@@ -2490,12 +2583,13 @@
           -1.909899907497561,
           -198
         ]
-      ]
+      ],
+      "index": "az"
     },
     {
       "type": "text",
-      "version": 134,
-      "versionNonce": 1048814114,
+      "version": 135,
+      "versionNonce": 1363939950,
       "isDeleted": false,
       "id": "N6LAERzm86DjEYDnEw4r0",
       "fillStyle": "hachure",
@@ -2515,7 +2609,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1732602538933,
+      "updated": 1742447795120,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -2526,12 +2620,14 @@
       "containerId": "TD2OJ1kyuwYoarC3KeEKq",
       "originalText": "和当前时间的差值",
       "lineHeight": 1.25,
-      "baseline": 20
+      "baseline": 20,
+      "index": "b00",
+      "autoResize": true
     },
     {
       "type": "rectangle",
-      "version": 366,
-      "versionNonce": 945428962,
+      "version": 367,
+      "versionNonce": 1191646066,
       "isDeleted": false,
       "id": "XJWuURQ5lqDVK1TNJzsWP",
       "fillStyle": "hachure",
@@ -2566,14 +2662,15 @@
           "type": "arrow"
         }
       ],
-      "updated": 1732602538819,
+      "updated": 1742447795120,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "b01"
     },
     {
       "type": "text",
-      "version": 390,
-      "versionNonce": 600772066,
+      "version": 391,
+      "versionNonce": 1597740206,
       "isDeleted": false,
       "id": "7WCaAmE_rxbq-yRepWzjP",
       "fillStyle": "hachure",
@@ -2593,7 +2690,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1732602538935,
+      "updated": 1742447795120,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -2604,12 +2701,14 @@
       "containerId": "XJWuURQ5lqDVK1TNJzsWP",
       "originalText": "MSKCC：进行SCS",
       "lineHeight": 1.25,
-      "baseline": 20
+      "baseline": 20,
+      "index": "b02",
+      "autoResize": true
     },
     {
       "type": "arrow",
-      "version": 1999,
-      "versionNonce": 1898088802,
+      "version": 2000,
+      "versionNonce": 1937233202,
       "isDeleted": false,
       "id": "YF8EgWZevaozjmHqJd1mM",
       "fillStyle": "hachure",
@@ -2636,7 +2735,7 @@
           "id": "65YLANHX8wBS7kKmvqblN"
         }
       ],
-      "updated": 1732602538819,
+      "updated": 1742447795120,
       "link": null,
       "locked": false,
       "startBinding": {
@@ -2661,12 +2760,13 @@
           678,
           173.20160411943016
         ]
-      ]
+      ],
+      "index": "b03"
     },
     {
       "type": "text",
-      "version": 155,
-      "versionNonce": 1815544226,
+      "version": 156,
+      "versionNonce": 8441582,
       "isDeleted": false,
       "id": "65YLANHX8wBS7kKmvqblN",
       "fillStyle": "hachure",
@@ -2686,7 +2786,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1732602538939,
+      "updated": 1742447795120,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -2697,12 +2797,14 @@
       "containerId": "YF8EgWZevaozjmHqJd1mM",
       "originalText": "6-12月、12-30个月、大于30个月",
       "lineHeight": 1.25,
-      "baseline": 20
+      "baseline": 20,
+      "index": "b04",
+      "autoResize": true
     },
     {
       "type": "arrow",
-      "version": 823,
-      "versionNonce": 1328879842,
+      "version": 824,
+      "versionNonce": 1609195250,
       "isDeleted": false,
       "id": "uod2LJerk4ph8Ud3dj8Xm",
       "fillStyle": "hachure",
@@ -2729,7 +2831,7 @@
           "id": "fakcvfe8qkBMed0vQzVEn"
         }
       ],
-      "updated": 1732602538819,
+      "updated": 1742447795120,
       "link": null,
       "locked": false,
       "startBinding": {
@@ -2754,12 +2856,13 @@
           638,
           -547.5674178073268
         ]
-      ]
+      ],
+      "index": "b05"
     },
     {
       "type": "text",
-      "version": 102,
-      "versionNonce": 317357410,
+      "version": 103,
+      "versionNonce": 832880942,
       "isDeleted": false,
       "id": "fakcvfe8qkBMed0vQzVEn",
       "fillStyle": "hachure",
@@ -2779,7 +2882,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1732602538941,
+      "updated": 1742447795120,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -2790,12 +2893,14 @@
       "containerId": "uod2LJerk4ph8Ud3dj8Xm",
       "originalText": "1",
       "lineHeight": 1.25,
-      "baseline": 20
+      "baseline": 20,
+      "index": "b06",
+      "autoResize": true
     },
     {
       "type": "rectangle",
-      "version": 388,
-      "versionNonce": 1586088034,
+      "version": 389,
+      "versionNonce": 954577074,
       "isDeleted": false,
       "id": "FRHiMVqCntHjrTgcq_MZn",
       "fillStyle": "hachure",
@@ -2830,14 +2935,15 @@
           "type": "arrow"
         }
       ],
-      "updated": 1732602538819,
+      "updated": 1742447795120,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "b07"
     },
     {
       "type": "text",
-      "version": 409,
-      "versionNonce": 1429766434,
+      "version": 410,
+      "versionNonce": 1980787566,
       "isDeleted": false,
       "id": "GmYInMeld59GJ6FnLe5qE",
       "fillStyle": "hachure",
@@ -2857,7 +2963,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1732602538943,
+      "updated": 1742447795120,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -2868,12 +2974,14 @@
       "containerId": "FRHiMVqCntHjrTgcq_MZn",
       "originalText": "MSKCC：进行SCS",
       "lineHeight": 1.25,
-      "baseline": 20
+      "baseline": 20,
+      "index": "b08",
+      "autoResize": true
     },
     {
       "type": "arrow",
-      "version": 789,
-      "versionNonce": 219715554,
+      "version": 790,
+      "versionNonce": 34654834,
       "isDeleted": false,
       "id": "_lT6fOwYfOEB0TDuBIRRt",
       "fillStyle": "hachure",
@@ -2900,7 +3008,7 @@
           "id": "giNRBRXb21zpTCz2nvYWZ"
         }
       ],
-      "updated": 1732602538819,
+      "updated": 1742447795120,
       "link": null,
       "locked": false,
       "startBinding": {
@@ -2925,12 +3033,13 @@
           638,
           -349.1028349686271
         ]
-      ]
+      ],
+      "index": "b09"
     },
     {
       "type": "text",
-      "version": 107,
-      "versionNonce": 1854934242,
+      "version": 108,
+      "versionNonce": 2081213870,
       "isDeleted": false,
       "id": "giNRBRXb21zpTCz2nvYWZ",
       "fillStyle": "hachure",
@@ -2950,7 +3059,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1732602538946,
+      "updated": 1742447795120,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -2961,12 +3070,14 @@
       "containerId": "_lT6fOwYfOEB0TDuBIRRt",
       "originalText": "大于1",
       "lineHeight": 1.25,
-      "baseline": 20
+      "baseline": 20,
+      "index": "b0A",
+      "autoResize": true
     },
     {
       "type": "arrow",
-      "version": 560,
-      "versionNonce": 718899042,
+      "version": 561,
+      "versionNonce": 842181682,
       "isDeleted": false,
       "id": "072ta1QipzE5SCCaC018s",
       "fillStyle": "hachure",
@@ -2993,7 +3104,7 @@
           "id": "f-e-4k9ep-BmEDDVOVYrF"
         }
       ],
-      "updated": 1732602538819,
+      "updated": 1742447795120,
       "link": null,
       "locked": false,
       "startBinding": {
@@ -3018,12 +3129,13 @@
           678,
           393.37943444733037
         ]
-      ]
+      ],
+      "index": "b0B"
     },
     {
       "type": "text",
-      "version": 129,
-      "versionNonce": 1417683106,
+      "version": 130,
+      "versionNonce": 1086515182,
       "isDeleted": false,
       "id": "f-e-4k9ep-BmEDDVOVYrF",
       "fillStyle": "hachure",
@@ -3043,7 +3155,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1732602538948,
+      "updated": 1742447795120,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -3054,12 +3166,14 @@
       "containerId": "072ta1QipzE5SCCaC018s",
       "originalText": "12-30个月、大于30个月",
       "lineHeight": 1.25,
-      "baseline": 20
+      "baseline": 20,
+      "index": "b0C",
+      "autoResize": true
     },
     {
       "type": "rectangle",
-      "version": 395,
-      "versionNonce": 1774491362,
+      "version": 396,
+      "versionNonce": 1328698866,
       "isDeleted": false,
       "id": "4Ert7oHeDnEfCXjEJ1YGG",
       "fillStyle": "hachure",
@@ -3094,14 +3208,15 @@
           "type": "arrow"
         }
       ],
-      "updated": 1732602538819,
+      "updated": 1742447795120,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "b0D"
     },
     {
       "type": "text",
-      "version": 422,
-      "versionNonce": 1924643938,
+      "version": 423,
+      "versionNonce": 876329518,
       "isDeleted": false,
       "id": "Rbe5L_K_IOxCORo5xqO1x",
       "fillStyle": "hachure",
@@ -3121,7 +3236,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1732602538951,
+      "updated": 1742447795120,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -3132,12 +3247,14 @@
       "containerId": "4Ert7oHeDnEfCXjEJ1YGG",
       "originalText": "MSKCC：考虑SCS",
       "lineHeight": 1.25,
-      "baseline": 20
+      "baseline": 20,
+      "index": "b0E",
+      "autoResize": true
     },
     {
       "type": "arrow",
-      "version": 530,
-      "versionNonce": 1574028898,
+      "version": 531,
+      "versionNonce": 169265074,
       "isDeleted": false,
       "id": "4LxOZ40TGAWU_m--uPbNy",
       "fillStyle": "hachure",
@@ -3164,7 +3281,7 @@
           "id": "Yd-bpHL8tFtTBQOfFWZXG"
         }
       ],
-      "updated": 1732602538819,
+      "updated": 1742447795120,
       "link": null,
       "locked": false,
       "startBinding": {
@@ -3189,12 +3306,13 @@
           680.9188054603326,
           596.6233062177562
         ]
-      ]
+      ],
+      "index": "b0F"
     },
     {
       "type": "text",
-      "version": 113,
-      "versionNonce": 1728438306,
+      "version": 114,
+      "versionNonce": 1566590062,
       "isDeleted": false,
       "id": "Yd-bpHL8tFtTBQOfFWZXG",
       "fillStyle": "hachure",
@@ -3214,7 +3332,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1732602538953,
+      "updated": 1742447795120,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -3225,12 +3343,14 @@
       "containerId": "4LxOZ40TGAWU_m--uPbNy",
       "originalText": "6-12个月",
       "lineHeight": 1.25,
-      "baseline": 20
+      "baseline": 20,
+      "index": "b0G",
+      "autoResize": true
     },
     {
       "type": "arrow",
-      "version": 516,
-      "versionNonce": 2096698850,
+      "version": 517,
+      "versionNonce": 1527185778,
       "isDeleted": false,
       "id": "sKkQbolukrWDfFMz-2313",
       "fillStyle": "hachure",
@@ -3257,7 +3377,7 @@
           "id": "SZxB8-Rt5MT0s2svcADvV"
         }
       ],
-      "updated": 1732602538819,
+      "updated": 1742447795120,
       "link": null,
       "locked": false,
       "startBinding": {
@@ -3282,12 +3402,13 @@
           638,
           -127.15152374923127
         ]
-      ]
+      ],
+      "index": "b0H"
     },
     {
       "type": "text",
-      "version": 114,
-      "versionNonce": 1029278690,
+      "version": 115,
+      "versionNonce": 2113504942,
       "isDeleted": false,
       "id": "SZxB8-Rt5MT0s2svcADvV",
       "fillStyle": "hachure",
@@ -3307,7 +3428,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1732602538964,
+      "updated": 1742447795120,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -3318,11 +3439,15 @@
       "containerId": "sKkQbolukrWDfFMz-2313",
       "originalText": "大于1",
       "lineHeight": 1.25,
-      "baseline": 20
+      "baseline": 20,
+      "index": "b0I",
+      "autoResize": true
     }
   ],
   "appState": {
-    "gridSize": null,
+    "gridSize": 20,
+    "gridStep": 5,
+    "gridModeEnabled": false,
     "viewBackgroundColor": "#ffffff"
   },
   "files": {
